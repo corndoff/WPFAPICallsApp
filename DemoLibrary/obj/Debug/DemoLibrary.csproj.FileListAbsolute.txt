@@ -1,0 +1,12 @@
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\bin\Debug\DemoLibrary.dll.config
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\obj\Debug\DemoLibrary.csproj.CopyComplete
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\corey\source\repos\WpfApp4\DemoLibrary\obj\Debug\DemoLibrary.pdb

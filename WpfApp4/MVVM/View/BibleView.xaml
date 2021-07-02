@@ -1,0 +1,37 @@
+﻿<UserControl x:Class="WpfApp4.MVVM.View.BibleView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApp4.MVVM.View"
+             mc:Ignorable="d" Loaded="UserControl_Loaded"
+             Background="DarkGray"
+             d:DesignHeight="505" d:DesignWidth="700">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="460"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <TextBlock x:Name="chapterAndVerseText"
+                       HorizontalAlignment="Center"
+                       Margin="0,40,0,0"
+                       FontSize="70"
+                       Foreground="White"/>
+            <TextBlock x:Name="scriptureText" 
+                       HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       TextWrapping="Wrap"
+                       FontSize="45"
+                       Margin="10,30,10,0"
+                       Foreground="White"/>
+        </StackPanel>
+        <Button x:Name="newVerseBtn" Click="newVerseBtn_Click"  
+                Grid.Row="1"
+                Background="Gray"
+                Content="New Verse"
+                FontSize="20"
+                Width="150"
+                Height="30"/>
+    </Grid>
+</UserControl>
